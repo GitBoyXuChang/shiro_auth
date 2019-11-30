@@ -1,0 +1,3 @@
+2019-11-30 14:03:26.372 febs [main] ERROR c.g.f.common.runner.CacheInitRunner - redis缓存初始化失败，Could not get a resource from the pool
+2019-11-30 14:03:26.372 febs [main] ERROR c.g.f.common.runner.CacheInitRunner - redis启动失败              
+2019-11-30 14:03:26.372 febs [main] ERROR c.g.f.common.runner.CacheInitRunner - Redis连接异常，请检查Redis连接配置并确保Redis服务已启动
